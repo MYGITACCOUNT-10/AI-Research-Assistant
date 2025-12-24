@@ -166,19 +166,3 @@ Agent-level tuning provides most of the benefits with significantly lower cost a
 
 ---
 
-## 7. Measured Improvements After Tuning
-
-After applying agent-level tuning:
-
-* Response length increased by ~2–4×
-* Evidence attribution became more consistent
-* Hallucinations were significantly reduced
-* Output structure became predictable and robust
-
-All improvements remained **strictly document-grounded**.
-
-```
-
-
-Just tell me.
-```
