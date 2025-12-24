@@ -1,0 +1,19 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-ollama
+
+# Vector store & embeddings
+chromadb
+sentence-transformers
+
+# Document loading
+pypdf
+
+# Optional UI
+streamlit
+streamlit-chat
