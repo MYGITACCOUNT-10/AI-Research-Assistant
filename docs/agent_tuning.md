@@ -1,4 +1,3 @@
-````markdown
 # Agent Fine-Tuning Strategy (RAG-Based Research Assistant)
 
 ## Overview
@@ -13,8 +12,6 @@ The project follows **industry-standard RAG tuning practices**, focusing on:
 - Inference-time constraints
 
 This approach improves answer quality, depth, and reliability **without modifying model weights**.
-
----
 
 ## 1. What “Fine-Tuning” Means in This Project
 
@@ -35,7 +32,7 @@ This design choice prioritizes:
 - Clear explainability
 
 ---
-````
+
 ## 2. Retrieval-Level Fine-Tuning
 
 ### 2.1 Similarity Search Depth (`k`)
