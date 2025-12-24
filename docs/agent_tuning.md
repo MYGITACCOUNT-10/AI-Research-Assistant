@@ -35,7 +35,7 @@ This design choice prioritizes:
 - Clear explainability
 
 ---
-
+````
 ## 2. Retrieval-Level Fine-Tuning
 
 ### 2.1 Similarity Search Depth (`k`)
