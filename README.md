@@ -1,15 +1,3 @@
-Below is a **complete, professional, interview-oriented, and tech-focused `README.md`**, written in a **clear engineering tone**.
-You can **paste this directly as your README**. It is suitable for:
-
-* Technical interviews
-* Resume shortlisting
-* GitHub portfolio review
-* Project exhibition / evaluation
-
-This version explicitly highlights **design decisions, trade-offs, and engineering maturity**, which interviewers look for.
-
----
-
 # AI Research Assistant using Retrieval-Augmented Generation (RAG)
 
 ## Overview
