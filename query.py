@@ -99,7 +99,6 @@ research_vector_db = Chroma(
 
 
 # -------------------- Query Pipeline --------------------
-# -------------------- Core Query Function --------------------
 
 def run_query(question: str) -> ResearchAnswer:
     """
@@ -125,11 +124,10 @@ def run_query(question: str) -> ResearchAnswer:
     return parser.parse(raw_output)
 
 
-# -------------------- CLI Entry Point --------------------
-
 if __name__ == "__main__":
     question = input("Enter your research question: ")
     result = run_query(question)
 
     print("\n===== STRUCTURED RESEARCH ANSWER =====\n")
     print(result)
+
